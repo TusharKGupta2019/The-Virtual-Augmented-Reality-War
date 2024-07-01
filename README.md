@@ -6,6 +6,7 @@ The analysis consisted of two parts:
 
 Overall Sentiment Analysis:
 In this part, we analyzed the overall sentiment of the VR/AR headset reviews. We explored whether the sentiment was predominantly positive, negative, or neutral.
+
 Product-Wise Sentiment Analysis:
 For the second part, we delved deeper into individual products within the dataset.
 We performed sentiment analysis on each product’s reviews separately, allowing us to understand how users perceived specific VR/AR headsets.
